@@ -1,19 +1,15 @@
-# Swift Chat Application
+# Swift Chat Application 
 
-## Overview
+## Overview ⚠️
 
 This is a Swift-based chat application currently under development. The project aims to provide a robust and scalable chat solution with real-time messaging capabilities.
 
-## Features
+## Features ⚠️
 
 - Real-time messaging
 - User authentication
 - Chat history
 
-## Installation
+## Contribution
 
-To get started with the application, clone this repository and open it in Xcode:
-
-```sh
-git clone https://github.com/YOUR-USERNAME/swift-chat-app.git
-
+- Contributions are welcome! Please follow the standard GitHub flow for contributing to the project.
