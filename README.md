@@ -10,6 +10,6 @@ This is a Swift-based chat application currently under development. The project 
 - User authentication
 - Chat history
 
-## Contribution
+## Contribution 🤝
 
 - Contributions are welcome! Please follow the standard GitHub flow for contributing to the project.
